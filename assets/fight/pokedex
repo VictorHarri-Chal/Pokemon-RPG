@@ -1,0 +1,11 @@
+squirtle;1;12;4;5;tackle;tail_whip;water_gun;withdraw;assets/sprite_poke_front/squirtle.png;assets/sprite_poke_back/squirtle.png;768
+charmander;0;20;11;11;scratch;growl;ember;smokescreen;assets/sprite_poke_front/charmander.png;assets/sprite_poke_back/charmander.png;288
+bulbasaur;2;12;4;5;tackle;growl;vine_whip;growth;assets/sprite_poke_front/bulbasaur.png;assets/sprite_poke_back/bulbasaur.png;480
+rattata;3;11;5;6;tackle;tail_whip;quick_attatck;bite;assets/sprite_poke_front/rattata.png;assets/sprite_poke_back/rattata.png;768
+diglett;6;11;5;6;scratch;growl;mud_slap;smokescreen;assets/sprite_poke_front/diglett.png;assets/sprite_poke_back/diglett.png;288
+geodude;4;15;5;5;tackle;rock_throw;smokescreen;growl;assets/sprite_poke_front/geodude.png;assets/sprite_poke_back/geodude.png;768
+cubone;6;12;6;5;mud_slap;growl;tail_whip;scratch;assets/sprite_poke_front/cubone.png;assets/sprite_poke_back/cubone.png;864
+venusaur;2;57;26;30;growth;razor_leaf;growl;take_down;assets/sprite_poke_front/venusaur.png;assets/sprite_poke_back/venusaur.png;480
+charizard;0;55;27;37;fire_fang;slash;flamethrower;scratch;assets/sprite_poke_front/charizard.png;assets/sprite_poke_back/charizard.png;384
+blastoise;1;57;27;29;aqua_tail;bite;water_gun;rapid_spin;assets/sprite_poke_front/blastoise.png;assets/sprite_poke_back/blastoise.png;480
+mewtwo;5;353;230;296;psychic;recover;earthquake;roar_of_time;assets/sprite_poke_front/mewtwo.png;assets/sprite_poke_back/mewtwo.png;384
