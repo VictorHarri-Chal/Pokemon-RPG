@@ -4,6 +4,10 @@
 
 ![MY_RPG](my_rpg_menu.png)
 
+## Requirements
+* GCC
+* CSFML library
+
 ## Usage
 
 ``` zsh
