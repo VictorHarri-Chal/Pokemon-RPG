@@ -22,3 +22,9 @@ With this project I learned graphical programming, how to use CFSML and collabor
 - Dialogues
 - Fights
 - A final boss
+
+## Screeshots
+
+![FIGHT](fight.png)
+![HOPITAL](hopital.png)
+![BOSS](boss.png)
